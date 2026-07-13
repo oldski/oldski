@@ -28,10 +28,3 @@ I've spent 15+ years building B2B SaaS and enterprise web platforms. Today that 
 
 - Portfolio: [kristopherolds.com](https://kristopherolds.com)
 - Email: kokrisolds@gmail.com
-
----
-
-**Notes on this draft (delete before publishing):**
-- Skip the GitHub stats/trophy widgets. They read as filler at your experience level.
-- The table row for the curriculum repo assumes you build it (see curriculum-repo-prompt.md). Remove the row until it exists.
-- Keep it to one screen. Recruiters skim; the pinned repos do the deep work.
