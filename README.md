@@ -18,7 +18,6 @@ I've spent 15+ years building B2B SaaS and enterprise web platforms. Today that 
 | **SportsFest Dashboard** | Solo full-stack build: Next.js 15, React 19, Stripe, Supabase, 20-package monorepo, 2,500+ users |
 | **VibeCheck** | AI sentiment analysis in a real UI: HuggingFace GoEmotions, emotion mapping, WebWorker image compression |
 | **KO Unwrapped** | Frontend polish: GSAP scroll animation, dynamic theming from album art, Spotify API |
-| **Prompt Engineering Curriculum** | How I teach engineers to work with AI coding agents (sanitized from my team curriculum) |
 
 ## Stack
 
