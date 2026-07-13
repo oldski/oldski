@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Kristopher Olds
 
-<!--
-**oldski/oldski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer. React, TypeScript, Next.js. AI-native by practice, not by buzzword.**
 
-Here are some ideas to get you started:
+I've spent 15+ years building B2B SaaS and enterprise web platforms. Today that means shipping production software with AI coding agents as a core part of the workflow: Claude Code is my daily driver, and I know where the tools accelerate you and where your own judgment has to take over.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm about
+
+- **Production AI, live users.** I built and shipped AskRoland, an AI assistant embedded in a financial staff portal, from concept through production. Real users, real constraints, real compliance stakes.
+- **AI adoption that sticks.** I wrote and teach a formal prompt-engineering curriculum for my team, with weekly training sessions. Getting engineers productive with agents is a skill of its own.
+- **Design systems at scale.** Architected a shared component system (52 core components, 152 variants, 99 hooks) inside an Nx monorepo powering 100+ financial workflows.
+- **Frontend craft.** Data-dense tables, multi-step approval workflows, accessibility, Core Web Vitals. The unglamorous stuff that makes enterprise UIs actually usable.
+
+## Pinned below
+
+| Project | What it shows |
+|---|---|
+| **SportsFest Dashboard** | Solo full-stack build: Next.js 15, React 19, Stripe, Supabase, 20-package monorepo, 2,500+ users |
+| **VibeCheck** | AI sentiment analysis in a real UI: HuggingFace GoEmotions, emotion mapping, WebWorker image compression |
+| **KO Unwrapped** | Frontend polish: GSAP scroll animation, dynamic theming from album art, Spotify API |
+| **Prompt Engineering Curriculum** | How I teach engineers to work with AI coding agents (sanitized from my team curriculum) |
+
+## Stack
+
+`React` `TypeScript` `Next.js` `Tailwind` `Supabase` `PostgreSQL` `MySQL` `Node` `Claude Code` `Figma`
+
+## Elsewhere
+
+- Portfolio: [kristopherolds.com](https://kristopherolds.com)
+- Email: kokrisolds@gmail.com
+
+---
+
+**Notes on this draft (delete before publishing):**
+- Skip the GitHub stats/trophy widgets. They read as filler at your experience level.
+- The table row for the curriculum repo assumes you build it (see curriculum-repo-prompt.md). Remove the row until it exists.
+- Keep it to one screen. Recruiters skim; the pinned repos do the deep work.
